@@ -1,0 +1,6 @@
+{
+  "name": "NBA NOW",
+  "description": "NBA 실시간 스코어, 일정, 순위, 라인업, Gamecast 및 하이라이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
